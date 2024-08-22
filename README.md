@@ -31,3 +31,19 @@ Simply open the `index.html` file in your browser to explore the static social m
 - **HTML**: Structure of the web pages.
 - **CSS**: Styling for the web pages.
 - **JavaScript**: Basic interactivity and DOM manipulation.
+
+## Contributing
+
+Contributions are welcome! If you have any improvements or new features that you would like to add, feel free to fork the repository and create a pull request. Please make sure to follow the existing code style and include detailed descriptions of your changes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out to me:
+
+- GitHub: [brianchristy](https://github.com/brianchristy)
+
+Happy coding!
